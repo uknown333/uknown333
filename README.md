@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @uknown
-- 👀 I’m interested in sowftware development 
+  
 - 🌱 I’m currently learning 
 <!---
 khadijamudd786/khadijamudd786 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
